@@ -381,7 +381,7 @@ flowchart TD
 
 ---
 
-## Sample Console Output (actual output from running the compiled program)
+## Sample Console Output 
 
 ```
 =============================================
@@ -457,11 +457,14 @@ Result[student=Asha Kumar, exam=Core Java Basics, scored=15.00/15.00, percentage
 Enter your choice: 5
 
 Thank you for using Online Examination Management System. Goodbye!
+```
 OUTPUT SCREENSHOTS:
-<img width="1038" height="758" alt="Screenshot 2026-10-13 192528" src="https://github.com/user-attachments/assets/bcae96b9-53d2-40ce-bbd0-71ab71959724" />
-<img width="1041" height="428" alt="Screenshot 2026-10-13 192500" src="https://github.com/user-attachments/assets/d3249e70-3fcd-41db-9671-a328904e405d" />
-<img width="797" height="762" alt="Screenshot 2026-10-13 192440" src="https://github.com/user-attachments/assets/d9781b82-5459-4a1f-82e5-eadde77bde87" />
-<img width="842" height="758" alt="Screenshot 2026-10-13 192429" src="https://github.com/user-attachments/assets/162f5130-c386-453f-bd62-87ed872bba92" />
-<img width="1021" height="767" alt="Screenshot 2026-10-13 192417" src="https://github.com/user-attachments/assets/8876d94e-4858-49e9-966f-3f764024fc83" />
-<img width="532" height="342" alt="Screenshot 2026-10-13 192224" src="https://github.com/user-attachments/assets/971782e0-c0ec-491e-a3c6-2b3dc383970e" />
+
 <img width="575" height="271" alt="Screenshot 2026-10-13 192144" src="https://github.com/user-attachments/assets/ab556efd-9237-4187-92bb-894abd5a024b" />
+<img width="532" height="342" alt="Screenshot 2026-10-13 192224" src="https://github.com/user-attachments/assets/971782e0-c0ec-491e-a3c6-2b3dc383970e" />
+<img width="1021" height="767" alt="Screenshot 2026-10-13 192417" src="https://github.com/user-attachments/assets/8876d94e-4858-49e9-966f-3f764024fc83" />
+<img width="842" height="758" alt="Screenshot 2026-10-13 192429" src="https://github.com/user-attachments/assets/162f5130-c386-453f-bd62-87ed872bba92" />
+<img width="797" height="762" alt="Screenshot 2026-10-13 192440" src="https://github.com/user-attachments/assets/d9781b82-5459-4a1f-82e5-eadde77bde87" />
+<img width="1041" height="428" alt="Screenshot 2026-10-13 192500" src="https://github.com/user-attachments/assets/d3249e70-3fcd-41db-9671-a328904e405d" />
+<img width="1038" height="758" alt="Screenshot 2026-10-13 192528" src="https://github.com/user-attachments/assets/bcae96b9-53d2-40ce-bbd0-71ab71959724" />
+
